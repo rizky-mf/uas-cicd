@@ -3,7 +3,6 @@ implement simple cart and promotion
 
 # Setup Guide
 
-
 ## Install, create and activate virtualenv
 https://medium.com/analytics-vidhya/virtual-environment-6ad5d9b6af59
 
